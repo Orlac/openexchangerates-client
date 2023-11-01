@@ -1,0 +1,12 @@
+{
+    "name": "orlac/openexchangerates",
+    "type": "l",
+    "autoload": {
+        "psr-4": {
+            "orlac\\openexchangerates\\": "src/"
+        }
+    },
+    "require": {
+        "php": "~8"
+    }
+}
